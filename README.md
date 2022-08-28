@@ -10,8 +10,6 @@
 
 
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kzyymmt53&theme=dracula)
-  
 ![trophy](https://github-profile-trophy.vercel.app/?username=kzyymmt53&theme=dracula&column=7)
   
 ![](https://activity-graph.herokuapp.com/graph?username=kzyymmt53&theme=dracula&hide_border=true)

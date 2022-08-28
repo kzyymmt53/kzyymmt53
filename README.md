@@ -9,12 +9,4 @@
 [![](https://raw.githubusercontent.com/kzyymmt53/kzyymmt53/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kzyymmt53/kzyymmt53/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=kzyymmt53&theme=dracula&column=7)
-  
-![](https://activity-graph.herokuapp.com/graph?username=kzyymmt53&theme=dracula&hide_border=true)
-
-
-
-
 </div>
